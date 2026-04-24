@@ -86,6 +86,8 @@ Password: secure@123
 ## 📸 Screenshots
 
 <img width="1920" height="1080" alt="Screenshot (578)" src="https://github.com/user-attachments/assets/4038ffe0-2d53-4aa3-96bc-e93d77be9ba6" />
+<img width="1920" height="1080" alt="Screenshot (582)" src="https://github.com/user-attachments/assets/ff8bba52-4b82-437b-b7fe-66bacd19c31e" />
+
 
 ---
 
