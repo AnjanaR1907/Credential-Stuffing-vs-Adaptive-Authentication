@@ -1,6 +1,6 @@
-🔐 Credential Stuffing vs Adaptive Authentication
+##🔐 Credential Stuffing vs Adaptive Authentication
 
-📌 Overview
+##📌 Overview
 
 This project is a **Cyber Range Simulation Tool** that demonstrates a **Credential Stuffing Attack** and its defense using a **Risk-Based Adaptive Authentication System**.
 
